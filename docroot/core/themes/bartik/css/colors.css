@@ -18,9 +18,9 @@ body {
   border-bottom-color: #ffffff;
 }
 #header {
-  background-color: #fc7005;
-  background-image: -webkit-linear-gradient(top, #c66503 0%, #fc7005 100%);
-  background-image: linear-gradient(to bottom, #c66503 0%, #fc7005 100%);
+  background-color: #5c2e91;
+  background-image: -webkit-linear-gradient(top, #5c2e91 0%, #5c2e91 100%);
+  background-image: linear-gradient(to bottom, #5c2e91 0%, #5c2e91 100%);
 }
 a,
 .link {
